@@ -52,23 +52,23 @@ body {
   margin-right: 140px;
 }
 
-#instagram {
+#ig-icon {
   margin-right: 40px;
 }
 
-#twitter {
+#tw-icon {
   margin-right: 40px;
 }
 
-#wordpress{
+#wp-icon{
   margin-right: 40px;
 }
 
-#facebook {
+#fb-icon {
   margin-right: 40px;
 }
 
-#youtube {
+#yt-icon {
   margin-right: 40px;
 }
 
@@ -306,23 +306,23 @@ p {
     max-height: 30px;
   }
 
-  #instagram {
+  #ig-icon {
     margin-right: 30px;
   }
 
-  #twitter {
+  #tw-icon {
     margin-right: 30px;
   }
 
-  #wordpress{
+  #wp-icon{
     margin-right: 30px;
   }
 
-  #facebook {
+  #fb-icon {
     margin-right: 30px;
   }
 
-  #youtube {
+  #yt-icon {
     margin-right: 30px;
   }
 
@@ -467,23 +467,23 @@ p {
     max-height: 160px;
   }
 
-  #instagram {
+  #ig-icon {
     margin-right: 20px;
   }
 
-  #twitter {
+  #tw-icon {
     margin-right: 20px;
   }
 
-  #wordpress{
+  #wp-icon{
     margin-right: 20px;
   }
 
-  #facebook {
+  #fb-icon {
     margin-right: 20px;
   }
 
-  #youtube {
+  #yt-icon {
     margin-right: 20px;
   }
 
