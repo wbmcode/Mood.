@@ -1,0 +1,9 @@
+<svg id="burst-mobile" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="353.338" height="448.453" viewBox="0 0 353.338 448.453">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.305" y1="0.712" x2="1.342" y2="0.616" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff377e"/>
+      <stop offset="1" stop-color="#ff7f02"/>
+    </linearGradient>
+  </defs>
+  <path id="_10" data-name="10" d="M298.694,214.379a69.993,69.993,0,1,1-52.158,104.313,102.888,102.888,0,1,1,51.6-108.015C298.353,211.911,298.523,213.145,298.694,214.379ZM445.722-15.385A95.934,95.934,0,0,1,256.791,18.057,95.934,95.934,0,0,1,445.722-15.385ZM327.8,170.807a27.6,27.6,0,1,1,22.372-31.989A27.6,27.6,0,0,1,327.8,170.807Z" transform="translate(-93.869 94.594)" fill="url(#linear-gradient)"/>
+</svg>
