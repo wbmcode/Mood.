@@ -73,7 +73,7 @@ body {
 }
 
 .animated {
-  transition: 0.8s;
+  transition: 1s;
 }
 
 .fadeInLeft {
