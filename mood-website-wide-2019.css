@@ -1,6 +1,5 @@
-
 body {
-  background-image: url(burst-bg.svg), linear-gradient(0deg, rgba(255,127,2,1) 0%, rgba(255,55,126,1) 100%);
+  background-image: url(burst-bg.svg), linear-gradient(0deg, rgba(255, 127, 2, 1) 0%, rgba(255, 55, 126, 1) 100%);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -60,7 +59,7 @@ body {
   margin-right: 40px;
 }
 
-#wp-icon{
+#wp-icon {
   margin-right: 40px;
 }
 
@@ -79,26 +78,25 @@ body {
 .fadeInLeft {
   margin-right: 0;
   margin-left: 25vw;
-
   opacity: 1;
 }
 
-.slides.artist > .artist-section {
+.slides.artist>.artist-section {
   margin-right: 100vw;
   opacity: 1;
 }
 
-.slides.artist > .listener-section {
+.slides.artist>.listener-section {
   margin-left: 0;
   opacity: 0;
 }
 
-.slides.listener > .listener-section {
+.slides.listener>.listener-section {
   margin-left: 100vw;
   opacity: 1;
 }
 
-.slides.listener > .artist-section {
+.slides.listener>.artist-section {
   margin-right: 0;
   opacity: 0;
 }
@@ -157,7 +155,7 @@ p {
   margin-top: 70px;
 }
 
-.tif{
+.tif {
   max-width: 248px;
   max-height: 81px;
 }
@@ -166,7 +164,7 @@ p {
   margin-top: 70px;
 }
 
-.upm{
+.upm {
   max-width: 320px;
   max-height: 81px;
 }
@@ -175,11 +173,10 @@ p {
   margin-top: 70px;
 }
 
-.mfa{
+.mfa {
   max-width: 320px;
   max-height: 81px;
 }
-
 
 .page-buttons {
   margin-top: 100px;
@@ -205,10 +202,9 @@ p {
   display: none !important;
 }
 
-
-@media screen and (min-width: 768px) and (max-width: 1024px)  {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   body {
-    background-image: url(burst-tablet.svg), linear-gradient(0deg, rgba(255,127,2,1) 0%, rgba(255,55,126,1) 100%);
+    background-image: url(burst-tablet.svg), linear-gradient(0deg, rgba(255, 127, 2, 1) 0%, rgba(255, 55, 126, 1) 100%);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -275,33 +271,32 @@ p {
     padding: 0;
   }
 
-
-  #ig{
+  #ig {
     max-width: 30px;
     max-height: 30px;
   }
 
-  #tw{
+  #tw {
     max-width: 40px;
     max-height: 30px;
   }
 
-  #wp{
+  #wp {
     max-width: 30px;
     max-height: 30px;
   }
 
-  #fb{
+  #fb {
     max-width: 30px;
     max-height: 30px;
   }
 
-  #yt{
+  #yt {
     max-width: 30px;
     max-height: 30px;
   }
 
-  #p{
+  #p {
     max-width: 30px;
     max-height: 30px;
   }
@@ -314,7 +309,7 @@ p {
     margin-right: 30px;
   }
 
-  #wp-icon{
+  #wp-icon {
     margin-right: 30px;
   }
 
@@ -329,13 +324,11 @@ p {
   .copy-buttons {
     margin-bottom: 180px;
   }
-
-
 }
 
-@media screen and (max-width: 767px)  {
+@media screen and (max-width: 767px) {
   body {
-    background-image: url(burst-mobile.svg), linear-gradient(0deg, rgba(255,127,2,1) 0%, rgba(255,55,126,1) 100%);
+    background-image: url(burst-mobile.svg), linear-gradient(0deg, rgba(255, 127, 2, 1) 0%, rgba(255, 55, 126, 1) 100%);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -399,7 +392,7 @@ p {
     padding: 0;
   }
 
-  .tif{
+  .tif {
     max-width: 169px;
     max-height: 63px;
   }
@@ -421,42 +414,42 @@ p {
     margin-top: 0px;
   }
 
-  .upm{
+  .upm {
     max-width: 191px;
     max-height: 63px;
   }
 
-  .mfa{
+  .mfa {
     max-width: 191px;
     max-height: 63px;
   }
 
-  #ig{
+  #ig {
     max-width: 20px;
     max-height: 20px;
   }
 
-  #tw{
+  #tw {
     max-width: 30px;
     max-height: 20px;
   }
 
-  #wp{
+  #wp {
     max-width: 20px;
     max-height: 20px;
   }
 
-  #fb{
+  #fb {
     max-width: 20px;
     max-height: 20px;
   }
 
-  #yt{
+  #yt {
     max-width: 20px;
     max-height: 20px;
   }
 
-  #p{
+  #p {
     max-width: 20px;
     max-height: 20px;
   }
@@ -474,7 +467,7 @@ p {
     margin-right: 20px;
   }
 
-  #wp-icon{
+  #wp-icon {
     margin-right: 20px;
   }
 
@@ -495,5 +488,4 @@ p {
     padding-left: 6vh;
     padding-right: 6vh;
   }
-
 }
